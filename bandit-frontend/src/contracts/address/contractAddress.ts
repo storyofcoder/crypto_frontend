@@ -1,0 +1,49 @@
+export default {
+  TEST_NET: {
+    wOldContract: "0x6c890fC76847bF58a6bDdaf71eD98d0bfAf49b30",
+    nftContract: "0xC0Fed25B8f04f6205308CCb72d19Aaf647a4eF36",
+    saleContract: "0x3Fef8d577c090d1225F9F5890337158Eb28B0De0",
+    escrowContract: "0xf5c7257029362e9c44cf1EEa917B13bc6a5d208B",
+    auctionContract: "0x84B8cC66C6Cc644b7B2dC5693Dd39f291B57761b",
+
+    royaltyContract: "0x2f3890C57Adf4a6F25abE0EAA7871F3504e35c01",
+
+    //external
+    XsaleContract: "0x25a0014F0eD9513035B13AC6A72De6B0cfac0EB5",
+    XauctionContract: "0xcB9a25A909e957D61148d6815FD1346A294924f9",
+    XescrowContract: "0x641570c509741A9dB51693067e0b70Aaaa2af73c",
+    XroyaltyContract: "0xa2F8Cc7391E446B8BfE1d687AF628C9c826a503C",
+
+    WBNBContract: "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+  },
+  STAGING_NET: {
+    wOldContract: "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+    nftContract: "0xF7d25fEEab59E3cEe34a785fe2F7C42446774d0b",
+    saleContract: "0x12D9dc20106ED6D352eF3e0a596d52aC1204FEA2",
+    escrowContract: "0xa6118C116A851d68ebD80111a7d81702E0088031",
+    auctionContract: "0xf385Ade3c24d87A1822E580D51e3Aa1034371D19",
+
+    //external
+    XsaleContract: "0x055041efe1CeA01c9D4ED115C70df218820DD401",
+    XauctionContract: "0x16168147932aEF2B3Bf710BCb966639A64Cc781D",
+    XescrowContract: "0xE82A5AD49A807C4039C9d27c19941C2AF1b4EFF3",
+    XroyaltyContract: "0xB998B79362a27C76f178D4572a1a4f082E58dEe2",
+
+    WBNBContract: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  },
+  MAIN_NET: {
+    wOldContract: "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+    nftContract: "0x23Cad0003e3A2b27b12359B25c25dD9a890AF8e1",
+    saleContract: "0xe431659e48d6FBb5c79b2FE3d8AAC3194F2e727b",
+    escrowContract: "0x43b78588B1c91f02E070100501F6c045662560cF",
+    auctionContract: "0xBfDF64B48A46E66f665338EA3666d8c5dB043f05",
+
+    //external
+    XsaleContract: "0x0edAbdB72be02Cc7CF1D29894ACA1B1053286919",
+    XauctionContract: "0x12E2EA4ADb0C384FB273279c9E169E2f494CcA21",
+    XescrowContract: "0x5a10cAfEaD21D5ED73BEB971CA5CEBBF4519f138",
+    XroyaltyContract: "0x36A639D248e26aC8F41e3F27A338B8259746dcEB",
+
+    WBNBContract: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  },
+};

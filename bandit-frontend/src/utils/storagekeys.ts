@@ -1,0 +1,9 @@
+export const CONNECTOR_ID = 'CONNECTOR_ID'
+export const CONNECTOR_TITLE = 'connectotTitle'
+export const CREATOR_GUIDELINE = 'CREATOR_GUIDELINE'
+export const COLLECTOR_GUIDELINE = 'COLLECTOR_GUIDELINE'
+export const READ_BANNER_MESSAGE = 'READ_BANNER_MESSAGE'
+export const BANNER_MESSAGE = 'BANNER_MESSAGE'
+export const INITIATED_CA = 'INITIATED_CA' // initiated creator access
+export const BLOCKCHAIN = 'BLOCKCHAIN' // initiated creator access
+export const SIGNATURE = 'SIGNATURE'
